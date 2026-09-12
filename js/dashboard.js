@@ -1239,7 +1239,7 @@ async function downloadPDF(){
 
     doc.setTextColor(255);
     doc.setFontSize(20);
-    doc.text("MASC CLINIC",15,15);
+    doc.text("MAMA ABIGAIL SMART CLINIC",15,15);
 
     doc.setFontSize(10);
     doc.text("Medical Cash Collection Report",15,22);
@@ -1296,7 +1296,7 @@ async function downloadPDF(){
         );
 
         doc.text(
-            "MASC Clinic • Secure Cash Collection System",
+            "Mama Abigail Smart Clinic • This is a system generated document",
             15,
             290
         );
