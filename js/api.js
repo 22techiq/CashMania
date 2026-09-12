@@ -5,7 +5,7 @@ MASC CLINIC API CLIENT
 */
 
 const API_URL =
-    "https://script.google.com/macros/s/AKfycbz3yNikOozPJf-c9cbwm8y3vC-8bBfWfvLSX6LeJyL9AUbmWmNm65t872QpA2prG5be/exec";
+    "https://script.google.com/macros/s/AKfycby0enNfpg0KSFMU_vC49jOkab5CB0pGeifNcl3lpaGwfjHW9AOIE9ug7zzt7E4Uxc0v/exec";
 
 
 function getToken() {
